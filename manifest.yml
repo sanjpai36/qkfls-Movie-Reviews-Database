@@ -1,5 +1,5 @@
 ---
 applications:
  - name: movies-reviews-database-70e
-   random-route: false
-   memory: 128M
+   random-route: true
+   memory: 256M
